@@ -67,8 +67,8 @@ sudo apt install make
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/blackpanther26/protobuf-python-rust
+cd protobuf-python-rust
 ```
 
 2. Run the setup to install all dependencies:
